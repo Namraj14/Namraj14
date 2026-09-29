@@ -18,12 +18,12 @@
 ## Current focus
 
 
-actionable delivery • Agentforce • enterprise integrations • developer experience
+Actionable delivery • Agentforce • Enterprise integrations • Developer experience
 
 ## Technical toolkit
 
 
-apex • lightning web components • flows • soql • javascript • graphql • rest APIs
+Apex • Lightning Web Components • Flows • SOQL • Javascript • Graphql • Rest APIs • Agentforce • MCP • RAG • Prompt
 
 ## Selected work
 
